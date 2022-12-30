@@ -12,7 +12,7 @@ const about = {
     'I am currently pursuing my Master of Science in Business Analytics and I have Bachelor of Science in Mechanical Engineering from the University of California, Irvine. I have experience as a product manager at MKG Los Angeles LLC and Sony Entertainment, where they were responsible for analyzing supply chain data, leading training, designing technical drawings and prototypes, and collaborating on firmware development. I also have experience as a product manager at Hindustan Petroleum Limited India, where they led a team of interns and managed a project budget. Overall, I have skills in Dat Science, Business Analytics, Mechanical Engineering, Product Development, and Project Management.',
   Resume: 'https://drive.google.com/file/d/1XAx5ehLYSZhcnrbUgLpsxfpGS9bgiHHz/view?usp=sharing',
   social: {
-    Linkedin: 'https://www.linkedin.com/in/dhruv-khanna-424617183/',
+    linkedin: 'https://www.linkedin.com/in/dhruv-khanna-424617183/',
     github: 'https://github.com/dk-5599',
   },
 }
