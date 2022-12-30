@@ -8,7 +8,7 @@ const WorkEx = () => {
 
   return (
     <section id='workex' className='section projects'>
-      <h2 className='section__title'>Internship Experience</h2>
+      <h2 className='section__title'>Work Experience</h2>
 
       <div className='projects__grid'>
         {workex.map((workexitem) => (
