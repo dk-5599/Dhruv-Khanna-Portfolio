@@ -38,7 +38,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className='link link--nav'
             >
-              Internships
+              Work Experience
             </a>
           </li>
         ) : null}
